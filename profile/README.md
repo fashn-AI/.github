@@ -1,4 +1,5 @@
-![Frame 1 1](https://github.com/fashn-AI/.github/assets/31159163/b657caa6-51af-4fe9-9764-6c2c27f09732)
+![cover](https://github.com/fashn-AI/.github/assets/31159163/8ac07026-ad4d-4aa9-8037-d84e2548e140)
+
 # 👚 Welcome to FASHN
 Simulate any garment on any model with our virtual try-on technology.
 
