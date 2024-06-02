@@ -12,8 +12,8 @@ Our platform enables you to easily visualize any garment on any model.
 
 ## Roadmap
 
-- **Platform:** Launch in April 2024 ([Join our waitlist](https://www.fashn.ai/))
-- **API:** Development planned, details TBD
+- **Platform:** In a closed beta (May 2024) ([Join our waitlist](https://www.fashn.ai/))
+- **API:** In development (Jun 2024)
 
 ## Get in Touch
 
