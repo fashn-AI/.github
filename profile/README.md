@@ -10,6 +10,9 @@ https://www.fashn.ai/
 FASHN is the first Try-on SaaS platform that empowers fashion brands, designers, and AI enthusiasts to create realistic fashion photoshoots effortlessly. 
 Our platform enables you to easily visualize any garment on any model.
 
+## Demo
+🤗 [HuggingFace Demo](https://huggingface.co/spaces/fashn-ai/LookSwap)
+
 ## Roadmap
 
 - **Platform:** In a closed beta (May 2024) ([Join our waitlist](https://www.fashn.ai/))
