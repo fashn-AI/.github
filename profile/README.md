@@ -1,14 +1,12 @@
-![cover](https://github.com/fashn-AI/.github/assets/31159163/8ac07026-ad4d-4aa9-8037-d84e2548e140)
+![banner](https://github.com/user-attachments/assets/fc929554-4e41-4809-9cc2-b619339b35a4)
 
 # 👚 Welcome to FASHN
-Simulate any garment on any model with our virtual try-on technology.
-
-https://www.fashn.ai/
+[FASHN Website](https://fashn.ai/)
 
 ## About Us
 
-FASHN is the first Try-on SaaS platform that empowers fashion brands, designers, and AI enthusiasts to create realistic fashion photoshoots effortlessly. 
-Our platform enables you to easily visualize any garment on any model.
+FASHN is building an in-house AI model that enables the transfer of clothing from image to image. 
+It is carefully trained to preserve the details of both the model and the clothes, seamlessly blending them to produce photorealistic results.
 
 ## Demo
 🤗 [HuggingFace Demo](https://huggingface.co/spaces/fashn-ai/LookSwap)
