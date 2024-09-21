@@ -8,13 +8,14 @@
 FASHN is building an in-house AI model that enables the transfer of clothing from image to image. 
 It is carefully trained to preserve the details of both the model and the clothes, seamlessly blending them to produce photorealistic results.
 
-## Demo
-🤗 [HuggingFace Demo](https://huggingface.co/spaces/fashn-ai/LookSwap)
+## Sign up to our platform
+[FASHN Platform](https://app.fashn.ai)
 
 ## Roadmap
 
-- **Platform:** In a closed beta (May 2024) ([Join our waitlist](https://www.fashn.ai/))
-- **API:** In development (Jun 2024)
+- **Platform:** In public beta (September 2024)
+- **API:** In public beta (September 2024)
+- **Increased Resolution:** Currently in training
 
 ## Get in Touch
 
