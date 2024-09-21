@@ -8,7 +8,7 @@
 FASHN is building an in-house AI model that enables the transfer of clothing from image to image. 
 It is carefully trained to preserve the details of both the model and the clothes, seamlessly blending them to produce photorealistic results.
 
-## Sign up to our platform
+## Sign Up to Our Platform
 [FASHN Platform](https://app.fashn.ai)
 
 ## Roadmap
