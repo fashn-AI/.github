@@ -5,8 +5,7 @@
 
 ## About Us
 
-FASHN is building an in-house AI model that enables the transfer of clothing from image to image. 
-It is carefully trained to preserve the details of both the model and the clothes, seamlessly blending them to produce photorealistic results.
+FASHN is a self-funded, AI-first company focused on researching image-based generative models tailored for the fashion industry.
 
 ## Sign Up to Our Platform
 [FASHN Platform](https://app.fashn.ai)
@@ -22,9 +21,3 @@ It is carefully trained to preserve the details of both the model and the clothe
 Whether you're a potential customer, a fashion brand interested in collaboration, or an investor looking to be part of the future of fashion tech, reach out to us at [info@fashn.ai](mailto:info@fashn.ai)
 
 👉 Follow our [FASHN Blog](https://www.fashn.ai/blog) for weekly news about tech, fashion, and company updates.
-
-## Support Us
-
-We are in need of high-end computing resources to accelerate our development. 
-Specifically, having access to **8 H100 GPUs** can significantly boost our pace and reduce our experiments time from 3 weeks to 3 days.
-If you can provide us either with hardware or funds for hardware, and wish to collaborate with us, please contact us at [info@fashn.ai](mailto:info@fashn.ai)
