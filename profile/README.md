@@ -7,8 +7,11 @@
 
 FASHN is a self-funded, AI-first company focused on researching image-based generative models tailored for the fashion industry.
 
-## Sign Up to Our Platform
-[FASHN Platform](https://app.fashn.ai)
+## Sign Up to Our App
+[FASHN App](https://app.fashn.ai)
+
+## Join our Discord community
+[FASHN Discord]([https://app.fashn.ai](https://discord.gg/MCs39Gf4yn))
 
 ## Roadmap
 
