@@ -11,7 +11,7 @@ FASHN is a self-funded, AI-first company focused on researching image-based gene
 [FASHN App](https://app.fashn.ai)
 
 ## Join our Discord community
-[FASHN Discord](https://app.fashn.ai](https://discord.gg/MCs39Gf4yn)
+[FASHN Discord](https://discord.gg/MCs39Gf4yn)
 
 ## Roadmap
 
