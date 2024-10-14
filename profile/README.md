@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/fc929554-4e41-4809-9cc2-b619339b35a4)
+![github-new](https://github.com/user-attachments/assets/bdb97e1d-a5d8-4169-925d-6f1572e70ab9)
 
 # 👚 Welcome to FASHN
 [FASHN Website](https://fashn.ai/)
